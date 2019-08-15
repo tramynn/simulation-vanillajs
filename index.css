@@ -1,4 +1,18 @@
 body {
-    background-color: pink;
+    background-color: white;
+}
+
+nav {
+    background-color: #424248;
+    min-height: px;
+    height: 15vh;
+}
+
+#monthly-expenses {
+    background-color: #EFE8E1;
+}
+
+#add-bill {
+    background-color: #53D3E5;
 }
 
